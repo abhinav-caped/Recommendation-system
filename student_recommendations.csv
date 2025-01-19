@@ -1,22 +1,21 @@
 Name,Reg_No,Branch,Interests,Branch_Interests,Recommended_Workshops
-Student001,REG0001,Mathematics & Computing,"Probability Models, Data Science, Algorithm Design","mathemat & computing, probabl models, data science, algorithm design","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Fusion 360 Generative Design Workshop'
- 'VR Arcade Basketball: Game Development Workshop']"
-Student002,REG0002,Mathematics & Computing,"Algorithm Design, Probability Models, Cryptography","mathemat & computing, algorithm design, probabl models, cryptographi","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Fusion 360 Generative Design Workshop'
- 'VR Arcade Basketball: Game Development Workshop']"
+Student001,REG0001,Mathematics & Computing,"Probability Models, Data Science, Algorithm Design","mathemat & computing, probabl models, data science, algorithm design","['Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure' 'PCB Designing']"
+Student002,REG0002,Mathematics & Computing,"Algorithm Design, Probability Models, Cryptography","mathemat & computing, algorithm design, probabl models, cryptographi","['Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop']"
 Student003,REG0003,Information Technology,"Web Development, Database Management, Cloud Computing","inform technology, web development, databas management, cloud comput","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Hacklinux: Web Exploitation Workshop'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop']"
+Student004,REG0004,Automobile Engineering,"Automotive Design, EV Technologies, Vehicle Dynamics","automobil engineering, automot design, ev technologies, vehicl dynam","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'Tech Divide - A Tech Debate Competition']"
+Student005,REG0005,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Space Exploration","aeronaut engineering, aerospac materials, propuls systems, space explor","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student006,REG0006,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Microprocessors, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, microprocessors, vlsi design","['Fusion 360 Generative Design Workshop' 'PCB Designing'
  'VR Arcade Basketball: Game Development Workshop']"
-Student004,REG0004,Automobile Engineering,"Automotive Design, EV Technologies, Vehicle Dynamics","automobil engineering, automot design, ev technologies, vehicl dynam","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
-Student005,REG0005,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Space Exploration","aeronaut engineering, aerospac materials, propuls systems, space explor","['Fusion 360 Generative Design Workshop'
- 'Tech Divide - A Tech Debate Competition'
- 'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student006,REG0006,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Microprocessors, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, microprocessors, vlsi design","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
-Student007,REG0007,Artificial Intelligence & Machine Learning,"Machine Learning, Neural Networks, Computer Vision","artifici intellig & machin learning, machin learning, neural networks, comput vision","['Vision Craft: Mastering Computer Vision' 'CONVenient'
- 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student007,REG0007,Artificial Intelligence & Machine Learning,"Machine Learning, Neural Networks, Computer Vision","artifici intellig & machin learning, machin learning, neural networks, comput vision","['CONVenient' 'Vision Craft: Mastering Computer Vision'
+ 'Tech Divide - A Tech Debate Competition']"
 Student008,REG0008,Automobile Engineering,"Vehicle Dynamics, EV Technologies, Combustion Engines","automobil engineering, vehicl dynamics, ev technologies, combust engin","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
@@ -26,9 +25,9 @@ Student009,REG0009,Cyber Physical Systems,"IoT, Control Systems, Embedded System
 Student010,REG0010,Cyber Physical Systems,"IoT, Embedded Systems, Control Systems","cyber physic systems, iot, embed systems, control system","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student011,REG0011,Information Technology,"Web Development, Database Management, Cybersecurity","inform technology, web development, databas management, cybersecur","['Hacklinux: Web Exploitation Workshop'
- 'VR Arcade Basketball: Game Development Workshop'
- 'App Development & Backend Workshop']"
+Student011,REG0011,Information Technology,"Web Development, Database Management, Cybersecurity","inform technology, web development, databas management, cybersecur","['VR Arcade Basketball: Game Development Workshop'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student012,REG0012,Computer Science and Financial Technology,"Stock Markets, Data Analytics, Blockchain","comput scienc and financi technology, stock markets, data analytics, blockchain","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
@@ -38,24 +37,24 @@ Student013,REG0013,Computer Science and Financial Technology,"Stock Markets, Blo
 Student014,REG0014,Computer Science and Financial Technology,"Blockchain, Data Analytics, AI in Finance","comput scienc and financi technology, blockchain, data analytics, ai in financ","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student015,REG0015,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, VLSI Design, Analog Circuits","electron engin - vlsi design and technology, semiconductor physics, vlsi design, analog circuit","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
-Student016,REG0016,Artificial Intelligence & Machine Learning,"Machine Learning, Computer Vision, Neural Networks","artifici intellig & machin learning, machin learning, comput vision, neural network","['Vision Craft: Mastering Computer Vision' 'CONVenient'
- 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student015,REG0015,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, VLSI Design, Analog Circuits","electron engin - vlsi design and technology, semiconductor physics, vlsi design, analog circuit","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student016,REG0016,Artificial Intelligence & Machine Learning,"Machine Learning, Computer Vision, Neural Networks","artifici intellig & machin learning, machin learning, comput vision, neural network","['CONVenient' 'Vision Craft: Mastering Computer Vision'
+ 'Tech Divide - A Tech Debate Competition']"
 Student017,REG0017,Computer Science and Financial Technology,"Blockchain, AI in Finance, Data Analytics","comput scienc and financi technology, blockchain, ai in finance, data analyt","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student018,REG0018,Aeronautical Engineering,"Aerospace Materials, Flight Mechanics, Space Exploration","aeronaut engineering, aerospac materials, flight mechanics, space explor","['VR Arcade Basketball: Game Development Workshop'
- 'Fusion 360 Generative Design Workshop'
+Student018,REG0018,Aeronautical Engineering,"Aerospace Materials, Flight Mechanics, Space Exploration","aeronaut engineering, aerospac materials, flight mechanics, space explor","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student019,REG0019,Computer Science and Financial Technology,"Data Analytics, Blockchain, Stock Markets","comput scienc and financi technology, data analytics, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student020,REG0020,Information Technology,"Cybersecurity, Cloud Computing, Web Development","inform technology, cybersecurity, cloud computing, web develop","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Hacklinux: Web Exploitation Workshop'
- 'VR Arcade Basketball: Game Development Workshop']"
-Student021,REG0021,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Flight Mechanics","aeronaut engineering, aerospac materials, propuls systems, flight mechan","['VR Arcade Basketball: Game Development Workshop'
- 'Fusion 360 Generative Design Workshop'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop']"
+Student021,REG0021,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Flight Mechanics","aeronaut engineering, aerospac materials, propuls systems, flight mechan","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student022,REG0022,Computer Science and Financial Technology,"Blockchain, AI in Finance, Stock Markets","comput scienc and financi technology, blockchain, ai in finance, stock market","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
@@ -66,8 +65,8 @@ Student023,REG0023,Biomedical Engineering,"Signal Processing, Healthcare AI, Bio
 Student024,REG0024,Computer Science and Financial Technology,"AI in Finance, Blockchain, Stock Markets","comput scienc and financi technology, ai in finance, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student025,REG0025,Electronics Engineering - VLSI Design and Technology,"Microprocessors, Semiconductor Physics, VLSI Design","electron engin - vlsi design and technology, microprocessors, semiconductor physics, vlsi design","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student025,REG0025,Electronics Engineering - VLSI Design and Technology,"Microprocessors, Semiconductor Physics, VLSI Design","electron engin - vlsi design and technology, microprocessors, semiconductor physics, vlsi design","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'VR Arcade Basketball: Game Development Workshop']"
 Student026,REG0026,Cyber Physical Systems,"Robotics, Control Systems, Embedded Systems","cyber physic systems, robotics, control systems, embed system","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
@@ -78,11 +77,11 @@ Student028,REG0028,Cyber Physical Systems,"Control Systems, IoT, Embedded System
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student029,REG0029,Mathematics & Computing,"Data Science, Probability Models, Cryptography","mathemat & computing, data science, probabl models, cryptographi","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'VR Arcade Basketball: Game Development Workshop'
- 'Hacklinux: Cryptography Workshop']"
-Student030,REG0030,Mathematics & Computing,"Algorithm Design, Cryptography, Probability Models","mathemat & computing, algorithm design, cryptography, probabl model","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Fusion 360 Generative Design Workshop'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop'
  'VR Arcade Basketball: Game Development Workshop']"
+Student030,REG0030,Mathematics & Computing,"Algorithm Design, Cryptography, Probability Models","mathemat & computing, algorithm design, cryptography, probabl model","['Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Hacklinux: Cryptography and Web Exploitation Workshop']"
 Student031,REG0031,Computer Science and Financial Technology,"Data Analytics, Stock Markets, Blockchain","comput scienc and financi technology, data analytics, stock markets, blockchain","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
@@ -104,9 +103,8 @@ Student036,REG0036,Cyber Physical Systems,"Robotics, Embedded Systems, IoT","cyb
 Student037,REG0037,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Combustion Engines","automobil engineering, ev technologies, vehicl dynamics, combust engin","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student038,REG0038,Mathematics & Computing,"Algorithm Design, Probability Models, Data Science","mathemat & computing, algorithm design, probabl models, data scienc","['Azure Pathways: Intro To Cloud Computing with Azure'
- 'Fusion 360 Generative Design Workshop'
- 'VR Arcade Basketball: Game Development Workshop']"
+Student038,REG0038,Mathematics & Computing,"Algorithm Design, Probability Models, Data Science","mathemat & computing, algorithm design, probabl models, data scienc","['Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure' 'PCB Designing']"
 Student039,REG0039,Computer Science and Financial Technology,"Data Analytics, Blockchain, Stock Markets","comput scienc and financi technology, data analytics, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
@@ -116,25 +114,25 @@ Student040,REG0040,Computer Science and Financial Technology,"Data Analytics, St
 Student041,REG0041,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Combustion Engines","automobil engineering, ev technologies, vehicl dynamics, combust engin","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student042,REG0042,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student042,REG0042,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'Tech Divide - A Tech Debate Competition']"
 Student043,REG0043,Information Technology,"Database Management, Cloud Computing, Cybersecurity","inform technology, databas management, cloud computing, cybersecur","['Azure Pathways: Intro To Cloud Computing with Azure'
  'Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop']"
-Student044,REG0044,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Analog Circuits, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, analog circuits, vlsi design","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
-Student045,REG0045,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
-Student046,REG0046,Artificial Intelligence & Machine Learning,"Neural Networks, Computer Vision, Natural Language Processing","artifici intellig & machin learning, neural networks, comput vision, natur languag process","['Vision Craft: Mastering Computer Vision' 'CONVenient'
- 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student044,REG0044,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Analog Circuits, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, analog circuits, vlsi design","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student045,REG0045,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'Tech Divide - A Tech Debate Competition']"
+Student046,REG0046,Artificial Intelligence & Machine Learning,"Neural Networks, Computer Vision, Natural Language Processing","artifici intellig & machin learning, neural networks, comput vision, natur languag process","['CONVenient' 'Vision Craft: Mastering Computer Vision'
+ 'Tech Divide - A Tech Debate Competition']"
 Student047,REG0047,Computer Science and Financial Technology,"Blockchain, Stock Markets, AI in Finance","comput scienc and financi technology, blockchain, stock markets, ai in financ","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
 Student048,REG0048,Cyber Physical Systems,"Control Systems, Embedded Systems, IoT","cyber physic systems, control systems, embed systems, iot","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
-Student049,REG0049,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Automotive Design","automobil engineering, ev technologies, vehicl dynamics, automot design","['Fusion 360 Generative Design Workshop'
- 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student049,REG0049,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Automotive Design","automobil engineering, ev technologies, vehicl dynamics, automot design","['Fusion 360 Generative Design Workshop' 'PCB Designing'
+ 'Tech Divide - A Tech Debate Competition']"
 Student050,REG0050,Cyber Physical Systems,"Embedded Systems, Robotics, IoT","cyber physic systems, embed systems, robotics, iot","['Tech Divide - A Tech Debate Competition'
  'VR Arcade Basketball: Game Development Workshop'
  'Azure Pathways: Intro To Cloud Computing with Azure']"
