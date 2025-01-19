@@ -1,206 +1,140 @@
-Name,Registration Number,Interests,Branch,Branch_Interests,Recommended_Workshops
-Quincy Brown,230902858,"Physics, Programming",BIOTECH,"biotech, physics, program","['Quantum Computing Basics' 'Mastering Python for Data Science'
- 'Introduction to Web Development']"
-Quincy Taylor,230908115,Physics,BIOMED,"biomed, physic","['Quantum Computing Basics' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Alice Martinez,230903311,Statistics,CPS,"cps, statist","['Data Science for Beginners' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Nathan Miller,230902604,"Python, AIML, Quantum Computing, Cryptocurrency, Programming",ENI,"eni, python, aiml, quantum computing, cryptocurrency, program","['Quantum Computing Basics' 'Mastering Python for Data Science'
- 'Understanding Blockchain Technology']"
-Jane Johnson,230905194,"Engineering, Quantum Computing, Robotics",CIVIL,"civil, engineering, quantum computing, robot","['Quantum Computing Basics' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Nathan Martin,230906167,"Computer Science, Web Development",MnC,"mnc, comput science, web develop","['Introduction to Artificial Intelligence'
- 'Building Scalable Web Applications' 'Introduction to Web Development']"
-Charlie White,230902828,"Python, Quantum Computing, Blockchain, Web Development, Networking",CCE,"cce, python, quantum computing, blockchain, web development, network","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Introduction to Web Development']"
-Hannah Miller,230907964,"Data Science, AIML",BIOMED,"biomed, data science, aiml","['Data Visualization with Python' 'Mastering Python for Data Science'
- 'AI in Healthcare']"
-Grace Miller,230902154,Blockchain,AIML,"aiml, blockchain","['Understanding Blockchain Technology' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Frank Martin,230903587,Web Development,DSE,"dse, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Charlie Wilson,230901330,"Statistics, Cryptocurrency, Web Development, Engineering",CSE,"cse, statistics, cryptocurrency, web development, engin","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Understanding Blockchain Technology']"
-Charlie Johnson,230907376,"Quantum Computing, AIML, Programming, Statistics, Blockchain",MnC,"mnc, quantum computing, aiml, programming, statistics, blockchain","['Quantum Computing Basics' 'Understanding Blockchain Technology'
- 'Data Science for Beginners']"
-Charlie Garcia,230907157,"Computer Science, Quantum Computing",CCE,"cce, comput science, quantum comput","['Quantum Computing Basics' 'Introduction to Artificial Intelligence'
- 'Exploring Cloud Computing']"
-Charlie Martinez,230904999,"Quantum Computing, Cloud Computing, Statistics",EEE,"eee, quantum computing, cloud computing, statist","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Data Science for Beginners']"
-Leo Garcia,230901813,"Statistics, AIML, Data Science",ECE,"ece, statistics, aiml, data scienc","['Data Science for Beginners' 'Data Visualization with Python'
- 'Mastering Python for Data Science']"
-Rachel Garcia,230902904,"Python, Data Science, Statistics, Physics, Computer Science",CHEM,"chem, python, data science, statistics, physics, comput scienc","['Mastering Python for Data Science' 'Data Science for Beginners'
- 'Data Visualization with Python']"
-Charlie Garcia,230905052,"Networking, Statistics",CSE,"cse, networking, statist","['Exploring Cloud Computing' 'Data Science for Beginners'
- 'Sustainable Development in Technology']"
-Jack Wilson,230901809,"Quantum Computing, Programming, Web Development",AIML,"aiml, quantum computing, programming, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Quantum Computing Basics']"
-Katherine Thompson,230903500,"Cloud Computing, Networking, Programming, Data Science, AIML",EEE,"eee, cloud computing, networking, programming, data science, aiml","['Exploring Cloud Computing' 'Mastering Python for Data Science'
- 'Data Visualization with Python']"
-Bob Thomas,230905552,"Python, Networking",CIVIL,"civil, python, network","['Exploring Cloud Computing' 'Mastering Python for Data Science'
- 'Data Visualization with Python']"
-Rachel Garcia,230905800,"Quantum Computing, Physics, Cloud Computing, Computer Science, Web Development",VLSI,"vlsi, quantum computing, physics, cloud computing, comput science, web develop","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Introduction to Artificial Intelligence']"
-Grace Williams,230908569,Physics,CSFT,"csft, physic","['Quantum Computing Basics' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Jane Roberts,230903001,"Quantum Computing, Robotics, Physics, Data Science",CHEM,"chem, quantum computing, robotics, physics, data scienc","['Quantum Computing Basics' 'Data Visualization with Python'
- 'Mastering Python for Data Science']"
-Paul Moore,230905118,"Web Development, Python, Computer Science, AIML",AERO,"aero, web development, python, comput science, aiml","['Mastering Python for Data Science'
- 'Introduction to Artificial Intelligence'
- 'Building Scalable Web Applications']"
-Mia Davis,230909751,"Quantum Computing, Programming, Blockchain, AIML, Physics",AUTOMOBILE,"automobile, quantum computing, programming, blockchain, aiml, physic","['Quantum Computing Basics' 'Understanding Blockchain Technology'
- 'Exploring Cloud Computing']"
-Ivy Jones,230907186,"Computer Science, Engineering",VLSI,"vlsi, comput science, engin","['Introduction to Artificial Intelligence' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Rachel Thomas,230906042,"Quantum Computing, Data Science, Cryptocurrency",BIOMED,"biomed, quantum computing, data science, cryptocurr","['Quantum Computing Basics' 'Data Visualization with Python'
- 'Understanding Blockchain Technology']"
-Jane Thomas,230904287,"Data Science, Robotics, Blockchain, Networking",AUTOMOBILE,"automobile, data science, robotics, blockchain, network","['Data Visualization with Python' 'Understanding Blockchain Technology'
- 'Mastering Python for Data Science']"
-John Smith,230901076,Cryptocurrency,CHEM,"chem, cryptocurr","['Understanding Blockchain Technology' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Leo White,230908252,Web Development,AERO,"aero, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Olivia Miller,230906452,"Web Development, Python, Statistics, Programming, Data Science",CHEM,"chem, web development, python, statistics, programming, data scienc","['Mastering Python for Data Science' 'Data Science for Beginners'
- 'Data Visualization with Python']"
-Jane Thompson,230905817,"Python, Web Development, Data Science",CPS,"cps, python, web development, data scienc","['Mastering Python for Data Science' 'Data Visualization with Python'
- 'Introduction to Web Development']"
-Quincy Jackson,230903691,"Blockchain, Computer Science, Networking",ENI,"eni, blockchain, comput science, network","['Introduction to Artificial Intelligence'
- 'Understanding Blockchain Technology' 'Exploring Cloud Computing']"
-Jane White,230904061,"Python, Engineering, Computer Science, Blockchain",MECHX,"mechx, python, engineering, comput science, blockchain","['Mastering Python for Data Science'
- 'Introduction to Artificial Intelligence'
- 'Understanding Blockchain Technology']"
-Frank Anderson,230901574,"Cryptocurrency, Networking, Statistics",MECHX,"mechx, cryptocurrency, networking, statist","['Understanding Blockchain Technology' 'Exploring Cloud Computing'
- 'Data Science for Beginners']"
-Leo Thomas,230903686,"Cloud Computing, Blockchain, Web Development, AIML",VLSI,"vlsi, cloud computing, blockchain, web development, aiml","['Exploring Cloud Computing' 'Building Scalable Web Applications'
- 'Introduction to Web Development']"
-Jane Garcia,230903879,"Physics, Robotics, Web Development",MnC,"mnc, physics, robotics, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Quantum Computing Basics']"
-Katherine Miller,230904424,"AIML, Data Science",ECE,"ece, aiml, data scienc","['Data Visualization with Python' 'Mastering Python for Data Science'
- 'AI in Healthcare']"
-Leo Taylor,230901938,"Quantum Computing, Robotics, AIML, Cloud Computing",IT,"it, quantum computing, robotics, aiml, cloud comput","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Deep Dive into Robotics']"
-Paul Davis,230901670,"Python, Engineering, Cloud Computing, Networking",EEE,"eee, python, engineering, cloud computing, network","['Exploring Cloud Computing' 'Mastering Python for Data Science'
- 'Deep Dive into Robotics']"
-Frank Martinez,230902423,"AIML, Robotics",MnC,"mnc, aiml, robot","['Deep Dive into Robotics' 'Building Your First Robot'
- 'Robotics for Beginners']"
-Hannah Roberts,230903547,"Computer Science, Cloud Computing",VLSI,"vlsi, comput science, cloud comput","['Exploring Cloud Computing' 'Introduction to Artificial Intelligence'
- 'Quantum Computing Basics']"
-Bob Williams,230909786,"Web Development, Quantum Computing, Data Science, Networking, Programming",MECH,"mech, web development, quantum computing, data science, networking, program","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Quantum Computing Basics']"
-Frank Martinez,230903778,"Data Science, Physics, Robotics, Networking",VLSI,"vlsi, data science, physics, robotics, network","['Data Visualization with Python' 'Mastering Python for Data Science'
- 'AI in Healthcare']"
-Jane Jackson,230902058,"Python, Web Development, Computer Science",CSFT,"csft, python, web development, comput scienc","['Mastering Python for Data Science'
- 'Introduction to Artificial Intelligence'
- 'Building Scalable Web Applications']"
-Jane Roberts,230902175,Networking,CHEM,"chem, network","['Exploring Cloud Computing' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Eva Williams,230905144,"Statistics, Python, AIML, Cloud Computing",EEE,"eee, statistics, python, aiml, cloud comput","['Exploring Cloud Computing' 'Data Science for Beginners'
- 'Mastering Python for Data Science']"
-Hannah Williams,230904504,"Programming, Cloud Computing",MECH,"mech, programming, cloud comput","['Exploring Cloud Computing' 'Quantum Computing Basics'
- 'Mastering Python for Data Science']"
-Charlie Johnson,230906868,AIML,CIVIL,"civil, aiml","['Exploring Artificial Neural Networks' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Hannah White,230903586,"Python, Engineering",CIVIL,"civil, python, engin","['Mastering Python for Data Science' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Eva Davis,230905675,"Blockchain, Networking",MECHX,"mechx, blockchain, network","['Understanding Blockchain Technology' 'Exploring Cloud Computing'
- 'Sustainable Development in Technology']"
-Eva Roberts,230903673,"Physics, Networking",CCE,"cce, physics, network","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Sustainable Development in Technology']"
-Ivy Johnson,230902987,Web Development,CCE,"cce, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Charlie Miller,230904547,"Programming, Cloud Computing, Networking, Blockchain",AIML,"aiml, programming, cloud computing, networking, blockchain","['Exploring Cloud Computing' 'Understanding Blockchain Technology'
- 'Quantum Computing Basics']"
-Jack Taylor,230909828,"Blockchain, Engineering, Data Science, Python, Programming",CSFT,"csft, blockchain, engineering, data science, python, program","['Mastering Python for Data Science' 'Data Visualization with Python'
- 'Understanding Blockchain Technology']"
-Bob Thompson,230901160,"Physics, Computer Science, Statistics, Quantum Computing, Programming",CPS,"cps, physics, comput science, statistics, quantum computing, program","['Quantum Computing Basics' 'Data Science for Beginners'
- 'Introduction to Artificial Intelligence']"
-Nathan Thompson,230906581,"Computer Science, Data Science, Robotics, Physics, Programming",VLSI,"vlsi, comput science, data science, robotics, physics, program","['Mastering Python for Data Science'
- 'Introduction to Artificial Intelligence'
- 'Data Visualization with Python']"
-David Martinez,230905490,"Python, Cloud Computing, Statistics, Data Science, Programming",EEE,"eee, python, cloud computing, statistics, data science, program","['Mastering Python for Data Science' 'Data Science for Beginners'
- 'Data Visualization with Python']"
-Hannah Jones,230906839,"Physics, Robotics, Cloud Computing, Networking, Computer Science",MECHX,"mechx, physics, robotics, cloud computing, networking, comput scienc","['Exploring Cloud Computing' 'Quantum Computing Basics'
- 'Introduction to Artificial Intelligence']"
-Nathan Garcia,230908759,Computer Science,CSE,"cse, comput scienc","['Introduction to Artificial Intelligence'
- 'Mastering Python for Data Science' 'AI in Healthcare']"
-Charlie Garcia,230903950,"Physics, Data Science, Networking, Quantum Computing, Blockchain",DSE,"dse, physics, data science, networking, quantum computing, blockchain","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Data Visualization with Python']"
-Frank Roberts,230906308,"AIML, Web Development",CSFT,"csft, aiml, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Hannah Wilson,230909618,Statistics,AERO,"aero, statist","['Data Science for Beginners' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Nathan Jones,230904174,"Python, Networking, Robotics",MnC,"mnc, python, networking, robot","['Exploring Cloud Computing' 'Mastering Python for Data Science'
- 'Deep Dive into Robotics']"
-Bob Anderson,230905443,"Engineering, Computer Science",IT,"it, engineering, comput scienc","['Introduction to Artificial Intelligence' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Olivia Smith,230907550,"Computer Science, Networking, Engineering, Robotics",AIML,"aiml, comput science, networking, engineering, robot","['Deep Dive into Robotics' 'Building Your First Robot'
- 'Introduction to Artificial Intelligence']"
-Jane Smith,230906736,Web Development,CSFT,"csft, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Katherine Garcia,230908551,"Cryptocurrency, Engineering",DSE,"dse, cryptocurrency, engin","['Understanding Blockchain Technology' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Alice Johnson,230909630,"Cryptocurrency, Cloud Computing",VLSI,"vlsi, cryptocurrency, cloud comput","['Exploring Cloud Computing' 'Understanding Blockchain Technology'
- 'Quantum Computing Basics']"
-Quincy Johnson,230903060,"Robotics, Quantum Computing, Cloud Computing, Statistics",CPS,"cps, robotics, quantum computing, cloud computing, statist","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Data Science for Beginners']"
-Mia Johnson,230908062,"Data Science, Networking, Statistics, Quantum Computing",ECE,"ece, data science, networking, statistics, quantum comput","['Data Science for Beginners' 'Quantum Computing Basics'
- 'Exploring Cloud Computing']"
-Grace Roberts,230906292,"Blockchain, Physics, Python, Computer Science",CHEM,"chem, blockchain, physics, python, comput scienc","['Mastering Python for Data Science'
- 'Introduction to Artificial Intelligence'
- 'Understanding Blockchain Technology']"
-Ivy Johnson,230902241,Web Development,AIML,"aiml, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Paul Williams,230908471,"Cryptocurrency, Cloud Computing, AIML",BIOMED,"biomed, cryptocurrency, cloud computing, aiml","['Exploring Cloud Computing' 'Understanding Blockchain Technology'
- 'Quantum Computing Basics']"
-John White,230902986,Quantum Computing,MECH,"mech, quantum comput","['Quantum Computing Basics' 'Exploring Cloud Computing'
- 'Sustainable Development in Technology']"
-Quincy Jackson,230908432,Python,MECHX,"mechx, python","['Mastering Python for Data Science' 'Data Visualization with Python'
- 'Sustainable Development in Technology']"
-Olivia Jackson,230901343,"Python, Cloud Computing",CSE,"cse, python, cloud comput","['Exploring Cloud Computing' 'Mastering Python for Data Science'
- 'Quantum Computing Basics']"
-Alice Thomas,230903192,"Engineering, Computer Science",ENI,"eni, engineering, comput scienc","['Introduction to Artificial Intelligence' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-John Wilson,230904506,"Physics, Web Development, AIML, Robotics, Data Science",CSFT,"csft, physics, web development, aiml, robotics, data scienc","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Data Visualization with Python']"
-Alice White,230902075,"Cryptocurrency, Engineering",MnC,"mnc, cryptocurrency, engin","['Understanding Blockchain Technology' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Leo Williams,230903230,Data Science,ECE,"ece, data scienc","['Data Visualization with Python' 'Mastering Python for Data Science'
- 'AI in Healthcare']"
-David Thomas,230903409,"AIML, Cloud Computing, Computer Science, Web Development",AIML,"aiml, aiml, cloud computing, comput science, web develop","['Exploring Cloud Computing' 'Introduction to Artificial Intelligence'
- 'Building Scalable Web Applications']"
-Alice Jackson,230907259,"Cloud Computing, Data Science",ENI,"eni, cloud computing, data scienc","['Exploring Cloud Computing' 'Data Visualization with Python'
- 'Mastering Python for Data Science']"
-Charlie Smith,230908088,"Robotics, Networking",MECH,"mech, robotics, network","['Exploring Cloud Computing' 'Deep Dive into Robotics'
- 'Building Your First Robot']"
-Eva Thompson,230905117,"Data Science, Blockchain, Quantum Computing",CHEM,"chem, data science, blockchain, quantum comput","['Quantum Computing Basics' 'Data Visualization with Python'
- 'Understanding Blockchain Technology']"
-Katherine Wilson,230909366,"Python, AIML, Data Science, Blockchain",VLSI,"vlsi, python, aiml, data science, blockchain","['Mastering Python for Data Science' 'Data Visualization with Python'
- 'Understanding Blockchain Technology']"
-Charlie Jones,230906442,Programming,DSE,"dse, program","['Mastering Python for Data Science' 'Building Scalable Web Applications'
- 'Introduction to Web Development']"
-Rachel Smith,230909142,"Web Development, Physics",BIOTECH,"biotech, web development, physic","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Quantum Computing Basics']"
-Alice Martinez,230906119,"Cloud Computing, Web Development, Engineering",CSE,"cse, cloud computing, web development, engin","['Exploring Cloud Computing' 'Building Scalable Web Applications'
- 'Introduction to Web Development']"
-Jack Taylor,230901178,"Engineering, Web Development, Cryptocurrency",AIML,"aiml, engineering, web development, cryptocurr","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Understanding Blockchain Technology']"
-Bob Garcia,230909442,"Physics, Computer Science, Web Development",BIOTECH,"biotech, physics, comput science, web develop","['Introduction to Artificial Intelligence'
- 'Building Scalable Web Applications' 'Introduction to Web Development']"
-Charlie Thomas,230908251,"Programming, Physics, Engineering, Statistics",AERO,"aero, programming, physics, engineering, statist","['Quantum Computing Basics' 'Data Science for Beginners'
- 'Deep Dive into Robotics']"
-Charlie Thompson,230904348,"Quantum Computing, Statistics",CSE,"cse, quantum computing, statist","['Quantum Computing Basics' 'Data Science for Beginners'
- 'Exploring Cloud Computing']"
-Katherine Smith,230904338,"Web Development, Engineering",MECH,"mech, web development, engin","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Deep Dive into Robotics']"
-Quincy Thomas,230909421,Web Development,CIVIL,"civil, web develop","['Building Scalable Web Applications' 'Introduction to Web Development'
- 'Introduction to Game Development']"
-Mia Johnson,230904337,"Networking, Physics, Programming, Robotics, Python",MECHX,"mechx, networking, physics, programming, robotics, python","['Mastering Python for Data Science' 'Quantum Computing Basics'
- 'Exploring Cloud Computing']"
-Olivia Garcia,230905979,"Networking, AIML",DSE,"dse, networking, aiml","['Exploring Cloud Computing' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Hannah Jones,230907371,"Physics, Statistics, Engineering, Blockchain",CSFT,"csft, physics, statistics, engineering, blockchain","['Understanding Blockchain Technology' 'Quantum Computing Basics'
- 'Data Science for Beginners']"
-John Garcia,230908536,Statistics,ENI,"eni, statist","['Data Science for Beginners' 'Data Structures and Algorithms'
- 'Sustainable Development in Technology']"
-Frank Johnson,230905921,"Cloud Computing, Statistics, Engineering, Programming",AUTOMOBILE,"automobile, cloud computing, statistics, engineering, program","['Exploring Cloud Computing' 'Data Science for Beginners'
- 'Deep Dive into Robotics']"
+Name,Reg_No,Branch,Interests,Branch_Interests,Recommended_Workshops
+Student001,REG0001,Mathematics & Computing,"Probability Models, Data Science, Algorithm Design","mathemat & computing, probabl models, data science, algorithm design","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Fusion 360 Generative Design Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student002,REG0002,Mathematics & Computing,"Algorithm Design, Probability Models, Cryptography","mathemat & computing, algorithm design, probabl models, cryptographi","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Fusion 360 Generative Design Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student003,REG0003,Information Technology,"Web Development, Database Management, Cloud Computing","inform technology, web development, databas management, cloud comput","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Hacklinux: Web Exploitation Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student004,REG0004,Automobile Engineering,"Automotive Design, EV Technologies, Vehicle Dynamics","automobil engineering, automot design, ev technologies, vehicl dynam","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student005,REG0005,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Space Exploration","aeronaut engineering, aerospac materials, propuls systems, space explor","['Fusion 360 Generative Design Workshop'
+ 'Tech Divide - A Tech Debate Competition'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student006,REG0006,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Microprocessors, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, microprocessors, vlsi design","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student007,REG0007,Artificial Intelligence & Machine Learning,"Machine Learning, Neural Networks, Computer Vision","artifici intellig & machin learning, machin learning, neural networks, comput vision","['Vision Craft: Mastering Computer Vision' 'CONVenient'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student008,REG0008,Automobile Engineering,"Vehicle Dynamics, EV Technologies, Combustion Engines","automobil engineering, vehicl dynamics, ev technologies, combust engin","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student009,REG0009,Cyber Physical Systems,"IoT, Control Systems, Embedded Systems","cyber physic systems, iot, control systems, embed system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student010,REG0010,Cyber Physical Systems,"IoT, Embedded Systems, Control Systems","cyber physic systems, iot, embed systems, control system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student011,REG0011,Information Technology,"Web Development, Database Management, Cybersecurity","inform technology, web development, databas management, cybersecur","['Hacklinux: Web Exploitation Workshop'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'App Development & Backend Workshop']"
+Student012,REG0012,Computer Science and Financial Technology,"Stock Markets, Data Analytics, Blockchain","comput scienc and financi technology, stock markets, data analytics, blockchain","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student013,REG0013,Computer Science and Financial Technology,"Stock Markets, Blockchain, Data Analytics","comput scienc and financi technology, stock markets, blockchain, data analyt","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student014,REG0014,Computer Science and Financial Technology,"Blockchain, Data Analytics, AI in Finance","comput scienc and financi technology, blockchain, data analytics, ai in financ","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student015,REG0015,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, VLSI Design, Analog Circuits","electron engin - vlsi design and technology, semiconductor physics, vlsi design, analog circuit","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student016,REG0016,Artificial Intelligence & Machine Learning,"Machine Learning, Computer Vision, Neural Networks","artifici intellig & machin learning, machin learning, comput vision, neural network","['Vision Craft: Mastering Computer Vision' 'CONVenient'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student017,REG0017,Computer Science and Financial Technology,"Blockchain, AI in Finance, Data Analytics","comput scienc and financi technology, blockchain, ai in finance, data analyt","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student018,REG0018,Aeronautical Engineering,"Aerospace Materials, Flight Mechanics, Space Exploration","aeronaut engineering, aerospac materials, flight mechanics, space explor","['VR Arcade Basketball: Game Development Workshop'
+ 'Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student019,REG0019,Computer Science and Financial Technology,"Data Analytics, Blockchain, Stock Markets","comput scienc and financi technology, data analytics, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student020,REG0020,Information Technology,"Cybersecurity, Cloud Computing, Web Development","inform technology, cybersecurity, cloud computing, web develop","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Hacklinux: Web Exploitation Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student021,REG0021,Aeronautical Engineering,"Aerospace Materials, Propulsion Systems, Flight Mechanics","aeronaut engineering, aerospac materials, propuls systems, flight mechan","['VR Arcade Basketball: Game Development Workshop'
+ 'Fusion 360 Generative Design Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student022,REG0022,Computer Science and Financial Technology,"Blockchain, AI in Finance, Stock Markets","comput scienc and financi technology, blockchain, ai in finance, stock market","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student023,REG0023,Biomedical Engineering,"Signal Processing, Healthcare AI, Biomechanics","biomed engineering, signal processing, healthcar ai, biomechan","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student024,REG0024,Computer Science and Financial Technology,"AI in Finance, Blockchain, Stock Markets","comput scienc and financi technology, ai in finance, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student025,REG0025,Electronics Engineering - VLSI Design and Technology,"Microprocessors, Semiconductor Physics, VLSI Design","electron engin - vlsi design and technology, microprocessors, semiconductor physics, vlsi design","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student026,REG0026,Cyber Physical Systems,"Robotics, Control Systems, Embedded Systems","cyber physic systems, robotics, control systems, embed system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student027,REG0027,Artificial Intelligence & Machine Learning,"Machine Learning, Computer Vision, Natural Language Processing","artifici intellig & machin learning, machin learning, comput vision, natur languag process","['Vision Craft: Mastering Computer Vision'
+ 'Tech Divide - A Tech Debate Competition'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student028,REG0028,Cyber Physical Systems,"Control Systems, IoT, Embedded Systems","cyber physic systems, control systems, iot, embed system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student029,REG0029,Mathematics & Computing,"Data Science, Probability Models, Cryptography","mathemat & computing, data science, probabl models, cryptographi","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Hacklinux: Cryptography Workshop']"
+Student030,REG0030,Mathematics & Computing,"Algorithm Design, Cryptography, Probability Models","mathemat & computing, algorithm design, cryptography, probabl model","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Fusion 360 Generative Design Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student031,REG0031,Computer Science and Financial Technology,"Data Analytics, Stock Markets, Blockchain","comput scienc and financi technology, data analytics, stock markets, blockchain","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student032,REG0032,Cyber Physical Systems,"Robotics, IoT, Control Systems","cyber physic systems, robotics, iot, control system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student033,REG0033,Cyber Physical Systems,"Robotics, IoT, Control Systems","cyber physic systems, robotics, iot, control system","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student034,REG0034,Biomedical Engineering,"Healthcare AI, Biomechanics, Medical Devices","biomed engineering, healthcar ai, biomechanics, medic devic","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student035,REG0035,Biomedical Engineering,"Medical Devices, Healthcare AI, Signal Processing","biomed engineering, medic devices, healthcar ai, signal process","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student036,REG0036,Cyber Physical Systems,"Robotics, Embedded Systems, IoT","cyber physic systems, robotics, embed systems, iot","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student037,REG0037,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Combustion Engines","automobil engineering, ev technologies, vehicl dynamics, combust engin","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student038,REG0038,Mathematics & Computing,"Algorithm Design, Probability Models, Data Science","mathemat & computing, algorithm design, probabl models, data scienc","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Fusion 360 Generative Design Workshop'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student039,REG0039,Computer Science and Financial Technology,"Data Analytics, Blockchain, Stock Markets","comput scienc and financi technology, data analytics, blockchain, stock market","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student040,REG0040,Computer Science and Financial Technology,"Data Analytics, Stock Markets, Blockchain","comput scienc and financi technology, data analytics, stock markets, blockchain","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student041,REG0041,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Combustion Engines","automobil engineering, ev technologies, vehicl dynamics, combust engin","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student042,REG0042,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student043,REG0043,Information Technology,"Database Management, Cloud Computing, Cybersecurity","inform technology, databas management, cloud computing, cybersecur","['Azure Pathways: Intro To Cloud Computing with Azure'
+ 'Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop']"
+Student044,REG0044,Electronics Engineering - VLSI Design and Technology,"Semiconductor Physics, Analog Circuits, VLSI Design","electron engin - vlsi design and technology, semiconductor physics, analog circuits, vlsi design","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student045,REG0045,Automobile Engineering,"Combustion Engines, Automotive Design, Vehicle Dynamics","automobil engineering, combust engines, automot design, vehicl dynam","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student046,REG0046,Artificial Intelligence & Machine Learning,"Neural Networks, Computer Vision, Natural Language Processing","artifici intellig & machin learning, neural networks, comput vision, natur languag process","['Vision Craft: Mastering Computer Vision' 'CONVenient'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student047,REG0047,Computer Science and Financial Technology,"Blockchain, Stock Markets, AI in Finance","comput scienc and financi technology, blockchain, stock markets, ai in financ","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student048,REG0048,Cyber Physical Systems,"Control Systems, Embedded Systems, IoT","cyber physic systems, control systems, embed systems, iot","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
+Student049,REG0049,Automobile Engineering,"EV Technologies, Vehicle Dynamics, Automotive Design","automobil engineering, ev technologies, vehicl dynamics, automot design","['Fusion 360 Generative Design Workshop'
+ 'Intro to UI/UX: Designing Wireframes and Prototypes' 'PCB Designing']"
+Student050,REG0050,Cyber Physical Systems,"Embedded Systems, Robotics, IoT","cyber physic systems, embed systems, robotics, iot","['Tech Divide - A Tech Debate Competition'
+ 'VR Arcade Basketball: Game Development Workshop'
+ 'Azure Pathways: Intro To Cloud Computing with Azure']"
